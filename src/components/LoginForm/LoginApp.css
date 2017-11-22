@@ -1,0 +1,60 @@
+body,label,input{
+	font-size:12px;
+	font-weight:bold;
+	text-align:left;
+	color:#807f7f
+}
+.log-in-form {
+  border: 1px solid #cacaca;
+  padding: 1rem;
+	font-size:13px;
+  border-radius: 0;
+}
+.message {
+  font-size: 25px;
+  margin-top: 10px;
+  text-align: right;
+}
+.rewardsH4{
+	font-weight:bold;
+	text-align:left;
+}
+.p_text{
+	font-size:12px;
+	font-weight:normal
+	
+}
+button,.button{
+	cursor: pointer;
+    display: inline-block;
+    background-color: #f69d00;
+    background-repeat: no-repeat;
+    background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #f69d00), color-stop(100%, #f37d00));
+    background-image: -webkit-linear-gradient(top, #f69d00 0%,#f37d00 100%);
+    background-image: -moz-linear-gradient(top, #f69d00 0%,#f37d00 100%);
+    background-image: -o-linear-gradient(top, #f69d00 0%,#f37d00 100%);
+    background-image: linear-gradient(top, #f69d00 0%,#f37d00 100%);
+    padding: 6px 13px;
+    font-family: 'AutoZoneCond-Heavy', Helvetica Neue, Arial, Sans-serif;
+    font-weight: normal;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.25);
+    color: #fff;
+    font-size: 13px;
+    line-height: inherit;
+    text-transform: uppercase;
+    border: 1px solid #f37f00;
+    border-bottom-color: #d66d00;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.05);
+    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.05);
+    -webkit-transition: 0.1s linear all;
+    -moz-transition: 0.1s linear all;
+    -o-transition: 0.1s linear all;
+    transition: 0.1s linear all;
+	
+}

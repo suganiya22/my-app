@@ -1,0 +1,13 @@
+.product {
+    margin: 0;
+    overflow: auto;
+}
+
+.product_price {
+    display: inline-block;
+    line-height: 34px;
+}
+
+.product_button-wrap {
+    float: right;
+}

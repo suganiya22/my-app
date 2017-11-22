@@ -1,0 +1,116 @@
+$sm-screen: 900px;
+
+body, html { font-size: 100%; line-height: 1.2; }
+.pencilAdsBg{
+  background: none repeat scroll 0% 0% #FFFFFF;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.33);
+    font-size: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+#toolbar{
+    font-family: Arial, sans-serif;
+    background: #f1f1f1;
+    font-weight: normal;
+    font-size:12px;
+    line-height: 25px;
+}
+ul#related_sites {
+    float: left;
+    margin: 0;
+    padding-left: 0;
+    position: absolute;
+    z-index: 10;
+}
+ul#related_sites li {
+    display: inline;
+    margin-right: 5px;
+	color:orange;
+	text-transform: uppercase;
+    background-image: none;
+}
+ul#related_sites li a {
+    color:orange;
+	line-height:30px;
+	font-weight:bold;	
+}
+ul#related_sites li.first {
+    border-right: 1px solid #333;
+    padding-right: 10px;
+}
+#myzone {
+    
+    border-bottom: 3px solid #f37f00;
+    background: #fff;
+}
+.header-block {
+  border-right:2px solid #ccc;
+  padding:10px;
+}
+.line{
+margin-top:50px;	
+}	
+.headerStyle{
+	text-align: left;
+    font-weight: bold;
+    padding-top: 10px;
+}	
+ #myzone h3 {
+    padding-bottom: 0;
+    margin: 0;
+    line-height: 1em;
+}
+li.has-submenu a{
+  
+  color:#fff !important;
+  font-size:14px;
+  font-weight:bold;
+}
+.boldStyle{
+  
+  font-weight:bold;
+  font-style:italic;
+}
+.simple{
+  font-family: 'AutoZoneCond-Heavy',Arial,sans-serif;
+    font-weight: bold !important;
+    font-size: 13px;
+	padding: 0;
+    margin: 0;
+    color: #666666;
+    line-height: 1.2em;
+  
+}
+.inheritStyle{
+margin:0;
+padding:0;	
+}	
+.alert-info{
+	color:orange;
+	font-size:15px;
+	font-weight:bold;
+
+}
+div#search-container {
+    height: 27px;
+    width: 282px;
+    position: absolute;
+    padding: 0;
+    margin-top: 3px;
+}
+#q{
+  height: 2.0rem;
+    font-size: 12px;
+    border: 1px solid #ccc;
+    border-radius: 16px;
+    margin:10px;
+}
+.sample-style{
+    padding: 5px;
+    background-color: #f7ebd6;
+    /* opacity: -1.5; */
+    font-weight: bold;
+    text-align: left;
+    font-size: 12px;
+}
